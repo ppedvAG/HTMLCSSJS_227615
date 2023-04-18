@@ -1,0 +1,19 @@
+p {
+    color:black;
+}
+
+
+* {
+    color:yellow;
+}
+
+
+#site-top {
+    font-size: 42px;
+    color: orangered;
+}
+
+.cool-paragraph {
+    color:slategray;
+    font-size: 36px;
+}
